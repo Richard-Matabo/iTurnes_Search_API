@@ -1,0 +1,53 @@
+.App {
+  background-color: rgb(4, 66, 66);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.resultCard {
+  padding: 5px;
+  margin: 5px;  
+}
+.cardText {
+  color: black;
+  font-size: small;
+  max-width: 250px;
+}
+.main{
+margin-right: 50px;
+margin-left: 50px;
+}
+.check{
+padding: 15px;
+display: inline-flex;
+}
+
+.btn-top{
+margin-bottom: 25px;
+margin-left: 480px ;
+margin-top: 20px;
+
+width: 150px;
+}
+.block-result{
+text-align: center;
+border-bottom-style: double;
+text-align: center;
+margin-bottom: 15px;
+margin-top: 15px;
+}
+.AllCards{
+margin-left: 20px;
+}
+h2{
+padding: 15px;
+text-align: center;
+border-bottom-style: double;
+}
+
+
+
